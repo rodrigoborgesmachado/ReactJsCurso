@@ -27,6 +27,7 @@ const Social = (props) => {
         Facebook
       </a>
     </div>
+    
   )
 }
 
